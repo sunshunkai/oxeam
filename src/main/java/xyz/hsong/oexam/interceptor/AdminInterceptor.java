@@ -55,4 +55,6 @@ public class AdminInterceptor implements HandlerInterceptor {
 	public void afterCompletion(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse,
 			Object o, Exception e) throws Exception {
 	}
+	
+	
 }
